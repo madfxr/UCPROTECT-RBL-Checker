@@ -14,3 +14,16 @@
 
 ## Notes
 - UCPROTECT-RBL-Checker is still tried on Ubuntu 22.04.5 LTS x86-64 only.
+- If you want to customize this tool for other RBLs, you can make changes to the sections:
+  ```
+BLISTS="
+dnsbl-0.uceprotect.net
+dnsbl-1.uceprotect.net
+dnsbl-2.uceprotect.net
+dnsbl-3.uceprotect.net
+"
+  ```
+
+## References
+- MultiRBL: https://multirbl.valli.org/list.
+- MxToolbox Blacklist: https://github.com/heximcz/mxtoolbox-blacklists/blob/master/blacklistsAlive.txt.
