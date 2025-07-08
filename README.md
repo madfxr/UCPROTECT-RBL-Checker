@@ -1,4 +1,4 @@
-# UCPROTECT Realtime Blackhole List Checker V1 for BGN Internal
+# UCPROTECT Realtime Blackhole List Checker for BGN Internal
 
 ## Requirements
 - Prips.
